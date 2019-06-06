@@ -1,0 +1,75 @@
+		.verh{
+			height: 70px;
+			padding-top: 30px;
+
+		}
+		.banner{
+			height: 600px;
+			background-image: url(banner.png);
+			background-size: 100% 100%;
+
+		}
+		.content{
+			height: 450px;
+
+		}
+		.flex{
+			display: flex;
+		}
+		.parent{
+			width: 1300px;
+			height: 450px;
+			margin-right: auto;
+			margin-left: auto;
+		}
+		.info{
+			height: 450px;
+			width: 300px;
+			margin-left: 30px;
+			text-align: center;
+		}
+		.logo{
+			margin-left: 200px;
+		}
+		.links{
+			margin-left: 300px;
+		}
+		a{
+			margin-left: 50px;
+			font-style: 20px;
+			text-decoration: none;
+			color: #49cbcd;
+		}
+		h1{
+			color: white;
+			font-size: 60px;
+			text-align: center;
+			margin-top: auto;
+			margin-bottom: auto;
+			padding-top: 200px;
+		}
+		body{
+			font-family: arial;
+		}
+		button{
+			background-color: #49cbcd;
+			padding-bottom: 10px;
+			padding-left: 20px;
+			padding-right: 20px;
+			padding-top: 10px;
+			border: none;
+			border-radius: 5px;
+			margin-top: 90px;
+			color: grey;
+		}
+		.img{
+			padding-top: 50px;
+		}
+		h2{
+			color: grey;
+		}
+		p{
+			color: grey;
+		}
+
+		
